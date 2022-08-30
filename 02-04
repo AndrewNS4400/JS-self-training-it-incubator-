@@ -1,0 +1,59 @@
+hello, 
+
+
+
+<b class='important-item'>
+	it's Andrew
+</b>
+
+<i>	
+	week
+</i>
+
+<hr/>
+         
+<p>
+	you can learn 
+			<b>	
+				English
+
+			</b>
+
+			<i>			
+				with
+			</i>
+ me
+
+
+</p>
+
+<img src='https://avatars.mds.yandex.net/i?id=21073835d332214899af7721d60548ea-5523677-images-thumbs&n=13&exp=1' style="width: 250px; "/>
+<input />
+
+
+<a href='http://fapl.ru'>
+	ссылка
+			
+<a/ href>
+<ol style="font-size: 40px;">
+	<li class = 'important important-item'>Андрей</li>
+	<li class="no-important-item">Виктория</li>
+	<li style="color: blue;">Егор</li>
+</ol>
+<style>
+	.important-item {
+		color: rebeccapurple;
+		font-size: 40px;
+		border:
+			royalblue 2px solid;
+			margin-left: 10px;
+			padding: 5px;
+	}
+	.no-important-item{
+		color: pink;
+		font-size: 40px;
+		border:
+		rgb(47, 197, 9) 2px solid;
+		margin-left: 25px;
+	}
+</style>
